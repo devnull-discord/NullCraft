@@ -1,0 +1,8 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# NOTE(@monarrk) : i am so sorry for using macos :(
+/.DS_Store
+
+# Ignore Gradle build output directory
+build
